@@ -1,6 +1,6 @@
 # RC-AUTO-Car
 
-A remote controlled and self driving car
+###**A remote controlled and self driving car**
 
 ####**HARDWARE REQUIREMENTS**: 
 * 2x ATMEGA1284 Microcontrollers
