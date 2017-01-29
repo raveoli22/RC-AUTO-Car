@@ -15,6 +15,7 @@ A remote controlled and self driving car
 * Atmel Studio
 * Bluetooth Serial Transmitter App (I used "ArduinoRC") 
 
+####**INSTRUCTIONS**:
 1. Use the schematic provided under [/documents/**Schematic.jpg**](./documents/Schematic.jpg) to build the remote controlled/auto driving car.
 2. Download a bluetooth serial transmitter application on your android phone, and configure the keys to values you wish to send.(I reconmmend using "ArduinoRC" from the Android Play Store)
 3. In the source code for microcontroller 1, modify the expected values to the same values you have configured on your Android app.
